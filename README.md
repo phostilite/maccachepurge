@@ -48,7 +48,6 @@ clean_mac_cache
 ### 📺 Demo
 
 ![Demo](demo.gif)
-*(You can add a demo gif/video showing the script in action)*
 
 ### 🖼️ Sample Output
 ```
